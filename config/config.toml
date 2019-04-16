@@ -1,1 +1,4 @@
 theme = "hugo-theme-cleanwhite"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/" 
